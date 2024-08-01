@@ -1,5 +1,4 @@
-# 필수 패키지 설치
-# pip install pyscard
+
 
 from smartcard.System import readers
 from smartcard.util import toHexString
