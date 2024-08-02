@@ -8,6 +8,14 @@ pip install pyscard
 pip install nfcpy
 ```
 
+# NFC 데이터 조회 스크립트
+
 ```python
-python pyscard_test.py
+sudo python read_nfc.py
+```
+
+# NFC 데이터 입력 스크립트
+
+```python
+sudo python write_nfc.py
 ```
