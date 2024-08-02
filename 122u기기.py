@@ -1,4 +1,4 @@
-
+# pyscard 라이르러리 사용
 
 from smartcard.System import readers
 from smartcard.util import toHexString
