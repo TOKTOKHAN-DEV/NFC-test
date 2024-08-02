@@ -19,3 +19,9 @@ sudo python read_nfc.py
 ```python
 sudo python write_nfc.py
 ```
+
+
+# OS
+```shell
+brew install libusb
+```
